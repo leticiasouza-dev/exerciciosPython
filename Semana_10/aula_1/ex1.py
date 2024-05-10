@@ -7,4 +7,4 @@ Para resolver este exercício, você deve, primeiro, verificar se o programa pod
 numeroDigitado = int(input("Digite um valor:"))
 
 for i in range(11):
-    print("Resultado", i , "X", numeroDigitado, "=", i*numeroDigitado);
+    print("Resultado", i , "X", numeroDigitado, "=", i * numeroDigitado);
